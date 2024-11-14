@@ -23,7 +23,7 @@
 
 </p>
 
-**Backend Developer (maybe)**
+**Backend Developer**
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />  
@@ -33,9 +33,6 @@
     src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-
-## Projects ✨
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Xy-Zipper&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&&hide_title=true" />
-
+ 
 ## skills ✨
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xy-Zipper&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
