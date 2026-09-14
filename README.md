@@ -26,6 +26,8 @@
 **Backend Developer**
 
 <p>
+  <img alt="Java"
+    src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />  
   <img alt="MongoDB"
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -33,6 +35,4 @@
     src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
 </p>
 
- 
-## skills ✨
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xy-Zipper&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
